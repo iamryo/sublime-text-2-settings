@@ -5,7 +5,7 @@ These are my settings for Sublime Text 2
 
 To use these setting in place of existing settings, paste the following line into the terminal:
 
-mv -f-r ~/Library/Application\ Support/Sublime\ Text\ 2/ ~/Library/Application\ Support/Sublime\ Text\ 2-backup/
+mv -f ~/Library/Application\ Support/Sublime\ Text\ 2/ ~/Library/Application\ Support/Sublime\ Text\ 2-backup/
 
 This will rename your existing setting folder to Sublime Text 2-backup
 
