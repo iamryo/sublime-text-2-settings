@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BeautifyRuby",
+		"Calculate",
+		"Coffee Formatter",
+		"CoffeeScript",
+		"ERB Insert and Toggle Commands",
+		"FileDiffs",
+		"Floobits",
+		"FTPSync",
+		"HTML5",
+		"LoremIpsum",
+		"Package Control",
+		"PlistJsonConverter",
+		"Pretty JSON",
+		"Rails Partial",
+		"RenameTab",
+		"Ruby Coverage",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"SJSON",
+		"SublimeCodeIntel",
+		"View In Browser"
+	]
+}
